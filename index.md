@@ -10,7 +10,7 @@
 
 > 我是一一个喜欢折腾的人，所以这里会有：
 
-- [在Windows的Linux子系统上部署一个用来跑Emacs图形界面的配置记录](_post/emacs-gui-on-wsl2)
+- [在Windows的Linux子系统上部署一个用来跑Emacs图形界面的配置记录](emacs-gui-on-wsl2)
 
 ## 技术永无止境
 
