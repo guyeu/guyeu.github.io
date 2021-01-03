@@ -1,32 +1,27 @@
-Welcome to GitHub Pages
+> 欢迎来到这里，一个程序员记录一些思绪的地方。
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+# 写在2021年开头
 
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
-Markdown
+平时工作很忙，但上班的脚步再快，也该随时驻足留心周围的风景。就像《心灵奇旅》里，每一个灵魂因一朵火花而得以完整，这朵火花并不一定是目标/理想/梦想之类的东西，更可能是遥远海面的一抹晨曦、盘旋而下的一枚落叶、人潮在大厦高楼间汹涌的声音，或者披萨在舌尖的味道这种能让人感受到生命的美好的东西。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+所以，在新的一年，给自己立一个小目标，记录生命中这些值得记录的东西。
 
-Syntax highlighted code block
+## 生命在于折腾
 
-# Header 1
-## Header 2
-### Header 3
+> 我是一一个喜欢折腾的人，所以这里会有：
 
-- Bulleted
-- List
+- [在Windows的Linux子系统上部署一个用来跑Emacs图形界面的配置记录](emacs-gui-on-wsl2)
 
-1. Numbered
-2. List
+## 技术永无止境
 
-**Bold** and _Italic_ and `Code` text
+> 作为一个程序员，总有一些新的旧的知识要学：
 
-[Link](url) and ![Image](src)
+- [用Java标准库里的非阻塞IO实现一个简单的Echo服务器](echo-java-stdlib-nio)
 
-For more details see GitHub Flavored Markdown.
-Jekyll Themes
+## 写在人生的边上的边上的边上
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
-Support or Contact
+> 人生是一本大书，而我刚过完序章，“写在人生边上”还不够格，就只好再往边上写写：
 
-Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
+- [还没想好写什么]()
+
+最后，这个静态站点使用GitHub Pages生成，可以点击上方链接看到源码。
