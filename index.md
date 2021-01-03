@@ -10,13 +10,13 @@
 
 > 我是一一个喜欢折腾的人，所以这里会有：
 
-- [在Windows的Linux子系统上部署一个用来跑Emacs图形界面的配置记录](emacs-gui-on-wsl2)
+- [在Windows的Linux子系统上部署一个用来跑Emacs图形界面的配置记录](_post/emacs-gui-on-wsl2)
 
 ## 技术永无止境
 
 > 作为一个程序员，总有一些新的旧的知识要学：
 
-- [用Java标准库里的非阻塞IO实现一个简单的Echo服务器](echo-java-stdlib-nio)
+- [用Java标准库里的非阻塞IO实现一个简单的Echo服务器](_post/echo-java-stdlib-nio)
 
 ## 写在人生的边上的边上的边上
 
