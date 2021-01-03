@@ -16,7 +16,7 @@
 
 > 作为一个程序员，总有一些新的旧的知识要学：
 
-- [用Java标准库里的非阻塞IO实现一个简单的Echo服务器](_post/echo-java-stdlib-nio)
+- [用Java标准库里的非阻塞IO实现一个简单的Echo服务器](echo-java-stdlib-nio)
 
 ## 写在人生的边上的边上的边上
 
